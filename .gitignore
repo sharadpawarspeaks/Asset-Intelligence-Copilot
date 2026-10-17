@@ -46,7 +46,7 @@ yarn-error.log*
 frontend/.vite/
 
 # Database files (local dev)
-# Keep .db ignored or track sample if needed; uncomment if not tracking database binaries
+*.db
 *.sqlite3
 *.db-journal
 
